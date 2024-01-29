@@ -4,4 +4,5 @@ The SM630 is a fingerprint recognition sensor module manufactured by Silicon Mou
 One of the key functionalities of the system is its support for multiple users. Approximately 320 users can register their fingerprints, each assigned a unique identifier. This feature ensures personalized access to the safe box, enhancing security and user convenience. Users have the flexibility to manage access permissions efficiently. The system allows for the addition and removal of users' fingerprints as required, providing administrators with control over access rights.
 Moreover, the microcontroller communicates specific commands to the mechanical components of the safe box. This integration ensures that the safe box's security mechanisms are enhanced, reinforcing access control protocols and safeguarding valuable assets stored within.
 
+./SM630.jpg
 </div>
