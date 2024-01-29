@@ -7,8 +7,9 @@ Moreover, the microcontroller communicates specific commands to the mechanical c
 
 ![SM630](./SM630.jpg)
 
-<div style="text-align:center">
-    <img src="./Safebox.jpg" alt="safebox">
-</div>
+|                   |
+|:-----------------:|
+| ![safebox](./Safebox.jpg) |
+
 
 </div>
